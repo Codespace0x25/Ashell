@@ -10,3 +10,6 @@ and to move to it  run
 chsh -s /usr/local/bin/AShell
 ```
 
+# conifgerashon
+using ~/.AShellrc to configer like added to the path. and move
+
